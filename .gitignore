@@ -33,5 +33,3 @@ Binaries/
 /app/target/
 
 /demo/target/
-
-*.properties
